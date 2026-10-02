@@ -8,7 +8,7 @@ a refactor, so the decision comes before the code.
 
 Read [`docs/DECISION.md`](docs/DECISION.md) first. It costs the options against
 each other with worked numbers, recommends one, and lists the four questions
-that need a human before anything is built.
+that need a decision before anything is built.
 
 The short version:
 
