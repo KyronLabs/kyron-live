@@ -126,7 +126,7 @@ At minimum, before this ships:
 Costing this properly probably matters more than the difference between $189
 and $288 a month.
 
-## Open, and needing a human
+## Open, and needing a decision
 
 1. Broadcast or interactive? Everything follows from it.
 2. Does Live replace Spaces, or sit beside it?
